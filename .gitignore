@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.*.swp
+src/python/addressbook_pb2.py
+addressbook.data
